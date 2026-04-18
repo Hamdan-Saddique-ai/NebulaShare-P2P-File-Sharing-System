@@ -24,6 +24,8 @@ NebulaShare/
 ├── utils/            # Helper functions  
 ├── config/           # Configuration files  
 └── README.md  
+## Screenshort
+<img width="1003" height="571" alt="Image" src="https://github.com/user-attachments/assets/97beef86-6c9c-4a12-b704-a75b757f8e10" />
 
 ## 📌 Future Improvements
 Mobile app support 

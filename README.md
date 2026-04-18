@@ -26,6 +26,7 @@ NebulaShare/
 └── README.md  
 ## Screenshort
 <img width="1003" height="571" alt="Image" src="https://github.com/user-attachments/assets/97beef86-6c9c-4a12-b704-a75b757f8e10" />
+<img width="971" height="568" alt="Image" src="https://github.com/user-attachments/assets/c38e2860-86a1-4ca4-accd-ac53cc611e18" />
 
 ## 📌 Future Improvements
 Mobile app support 

@@ -28,7 +28,7 @@ NebulaShare/
 <img width="1003" height="571" alt="Image" src="https://github.com/user-attachments/assets/97beef86-6c9c-4a12-b704-a75b757f8e10" />
 <img width="971" height="568" alt="Image" src="https://github.com/user-attachments/assets/c38e2860-86a1-4ca4-accd-ac53cc611e18" />
 <img width="999" height="539" alt="Image" src="https://github.com/user-attachments/assets/d180b202-da31-4f94-897c-ad1bfec3c395" />
-
+<img width="978" height="566" alt="Image" src="https://github.com/user-attachments/assets/cb68be39-6939-4fcf-b03f-f5f6a6e4ee93" />
 
 ## 📌 Future Improvements
 Mobile app support 
